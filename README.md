@@ -24,6 +24,9 @@ It is the number of time the network is train. Usually 10 epochs is enough with 
 
 ## Sources :
 
+### Auto-Encoder Linear :
+https://github.com/pranjaldatta/Denoising-Autoencoder-in-Pytorch/blob/master/DenoisingAutoencoder.ipynb
+
 ### Auto-Encoder convolutif :
 https://plainenglish.io/blog/denoising-autoencoder-in-pytorch-on-mnist-dataset-a76b8824e57e
 https://www.youtube.com/watch?v=rGz_NavEMmM&list=PLlI0-qAzf2Sa6agSVFbrrzyfNkU5--6b_&index=10
