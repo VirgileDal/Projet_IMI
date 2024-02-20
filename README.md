@@ -24,23 +24,19 @@ It is the number of time the network is train. Usually 10 epochs is enough with 
 
 ## Sources :
 
-Auto-Encoder convolutif :
-
+### Auto-Encoder convolutif :
 https://plainenglish.io/blog/denoising-autoencoder-in-pytorch-on-mnist-dataset-a76b8824e57e
 https://www.youtube.com/watch?v=rGz_NavEMmM&list=PLlI0-qAzf2Sa6agSVFbrrzyfNkU5--6b_&index=10
 
-Convolutive layers information :
-
+### Convolutive layers information :
 https://inside-machinelearning.com/cnn-couche-de-convolution/#:~:text=%C3%80%20l'inverse%2C%20les%20couches,convolutions%20ont%20une%20approche%20locale.
 https://cedric.cnam.fr/vertigo/cours/ml2/coursDeep3.html
 
-Forum (resize & range only) :
-
+### Forum (resize & range only) :
 https://discuss.pytorch.org/t/does-pytorch-automatically-normalizes-image-to-0-1/40022
 https://discuss.pytorch.org/t/how-to-efficiently-normalize-a-batch-of-tensor-to-0-1/65122
 https://stackoverflow.com/questions/72440228/how-to-rescale-a-pytorch-tensor-to-interval-0-1
 https://stackoverflow.com/questions/76419715/will-torchvision-transforms-resize-damage-the-image-information
 
-Bruit MRI images :
-
+### Bruit MRI images :
 https://www.imaios.com/fr/e-mri/qualite-d-image-et-artefacts/rapport-signal-et-bruit
